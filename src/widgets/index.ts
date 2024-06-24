@@ -1,0 +1,5 @@
+export {default as TheHeader} from '@/widgets/TheHeader/TheHeader.vue'
+export {default as TheAside} from '@/widgets/TheAside/TheAside.vue'
+export {default as HeaderLogout} from '@/widgets/HeaderLogout/HeaderLogout.vue'
+export {default as UserInfo} from '@/widgets/UserInfo/UserInfo.vue'
+export {default as LessonPopup} from '@/widgets/LessonPopup/LessonPopup.vue'
